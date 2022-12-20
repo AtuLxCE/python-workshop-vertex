@@ -15,3 +15,5 @@ Hello Participants, here are all the resources you'll be needing to kickstart yo
 3. Open the DayX_Assignment.ipynb file and complete the assignment
 5. Rename the file to <your name>_DayX_Assignment.ipynb (Example: Atul_Day1_Assignment.ipynb)
 4. Upload the .ipynb file [here](https://forms.gle/aX8ABVz1ST9hU3mPA)
+
+  Note: **Those who have submitted the all the assignments will be getting a beautiful Certificate of Completion**

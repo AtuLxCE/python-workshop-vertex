@@ -9,7 +9,7 @@ Hello Participants, here are all the resources you'll be needing to kickstart yo
 4. Explore the contents of the .ipynb(Interactive Python Notebook) files
 5. Keep learning and sharing
 
-Note: **Make sure to run the command `git pull` in the terminal where this repo is located if you've already cloned it to get the resources of next day
+Note: **Make sure to run the command `git pull` in the terminal where this repo is located if you've already cloned it to get the resources of next day**
 
 ### Steps to submit Assignments
 1. After you've cloned the repo in your local directory navigate to it.
